@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy ingeniero de sistemas de Colombia</p>
+<p align="left">Soy ingeniero de sistemas</p>
 
 ###
 
